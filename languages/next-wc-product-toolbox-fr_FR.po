@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next WC Product Toolbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-31 17:24+0100\n"
+"PO-Revision-Date: 2022-10-31 17:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: trans_next_watermark\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: wcptb-functions.php\n"
+"X-Poedit-SearchPath-1: wcptb-acp-page.php\n"
+
+#: wcptb-acp-page.php:16 wcptb-acp-page.php:218 wcptb-acp-page.php:245 wcptb-acp-page.php:294 wcptb-acp-page.php:332 wcptb-acp-page.php:367
+msgid "Tags"
+msgstr "Etiquettes"
+
+#: wcptb-acp-page.php:31
+msgid "Continue shopping!"
+msgstr "Continuer les achats!"
+
+#: wcptb-acp-page.php:84 wcptb-functions.php:62
+msgid "Toolbox"
+msgstr "Outils"
+
+#: wcptb-acp-page.php:85 wcptb-functions.php:63
+msgid "SEO"
+msgstr "SEO"
+
+#: wcptb-acp-page.php:86 wcptb-functions.php:64
+msgid "Misc"
+msgstr "Divers"
+
+#: wcptb-acp-page.php:97
+msgid "Content protection"
+msgstr "Protection contre la copie"
+
+#: wcptb-acp-page.php:101
+msgid "Copy protection"
+msgstr "Protection contre la copie"
+
+#: wcptb-acp-page.php:102
+msgid "Disable right click and copy content"
+msgstr "Désactiver le clic droit et la copie de contenu"
+
+#: wcptb-acp-page.php:105 wcptb-acp-page.php:200 wcptb-acp-page.php:235 wcptb-acp-page.php:285 wcptb-acp-page.php:324 wcptb-acp-page.php:355
+#: wcptb-acp-page.php:410
+msgid "Save"
+msgstr "Enregistrer"
+
+#: wcptb-acp-page.php:124
+msgid "Product meta description"
+msgstr "Description métas du produit"
+
+#: wcptb-acp-page.php:125
+msgid "Improve your SEO by informing visitors with a relevant product title and/or short meta description of what each product is about."
+msgstr "Améliorer le référencement SEO en informant vos visiteurs avec un titre pertinent et/ou une courte description de chacun de vos produits."
+
+#: wcptb-acp-page.php:128
+msgid "Add meta title, description"
+msgstr "Ajout des métas titre et description"
+
+#: wcptb-acp-page.php:129
+msgid "Use title"
+msgstr "Utiliser le titre"
+
+#: wcptb-acp-page.php:130
+msgid "Use short description"
+msgstr "Utiliser la description courte"
+
+#: wcptb-acp-page.php:134
+msgid "Product meta links"
+msgstr "Liens des métas du produit"
+
+#: wcptb-acp-page.php:135
+msgid "Improve your SEO by adding internal category and/or tag links between your products."
+msgstr "Améliorer le référencement SEO en ajoutant des intra-liens de catégories ou d'étiquettes entre vos produits."
+
+#: wcptb-acp-page.php:138
+msgid "Add meta links"
+msgstr "Ajout de métas avec lien"
+
+#: wcptb-acp-page.php:139
+msgid "Add category links"
+msgstr "Ajout de liens de catégories"
+
+#: wcptb-acp-page.php:140
+msgid "Add tag links"
+msgstr "Ajout de liens d'étiquettes"
+
+#: wcptb-acp-page.php:144
+msgid "Product description tab"
+msgstr "Onglet de description du produit"
+
+#: wcptb-acp-page.php:145
+msgid "Improve your SEO by replacing automatically Description heading by your product title and/or description tab by your own text."
+msgstr ""
+"Améliorer le référencement SEO en remplaçant automatiquement le titre de la description par le titre de votre produit et/ou le texte de l'onglet "
+"Description par votre propre texte."
+
+#: wcptb-acp-page.php:148
+msgid "Description heading"
+msgstr "Titre de la description"
+
+#: wcptb-acp-page.php:149
+msgid "Rename description heading by product title"
+msgstr "Renommer le titre Description avec le titre du produit"
+
+#: wcptb-acp-page.php:154
+msgid "Description tab"
+msgstr "Onglet description"
+
+#: wcptb-acp-page.php:155 wcptb-acp-page.php:351 wcptb-acp-page.php:391 wcptb-acp-page.php:402
+msgid "(Left empty if not used)"
+msgstr "(Laisser vide si non utilisé)"
+
+#: wcptb-acp-page.php:156
+msgid "Rename 'Description tab' text with your own text."
+msgstr "Renommer l'onglet Description avec votre propre texte."
+
+#: wcptb-acp-page.php:160
+msgid "Tags cloud"
+msgstr "Nuage d'étiquettes"
+
+#: wcptb-acp-page.php:161
+msgid "Improve your SEO by adding a tag cloud of WC product tags."
+msgstr "Améliorer le référencement SEO en ajoutant un nuage de liens des étiquettes de vos produits."
+
+#: wcptb-acp-page.php:162
+msgid "Insert [tags_cloud] short code into a text widget as well as post or page content."
+msgstr "Insérer le short code [tags_cloud] dans un widget de type texte comme dans le contenu d'un post ou d'une page."
+
+#: wcptb-acp-page.php:165 wcptb-acp-page.php:270
+msgid "Empty tags"
+msgstr "Etiquettes sans produit"
+
+#: wcptb-acp-page.php:166 wcptb-acp-page.php:271
+msgid "Hide tags with NO product"
+msgstr "Cacher les étiquettes SANS produit"
+
+#: wcptb-acp-page.php:170 wcptb-acp-page.php:190 wcptb-acp-page.php:275 wcptb-acp-page.php:314
+msgid "Order"
+msgstr "Ordre"
+
+#: wcptb-acp-page.php:171 wcptb-acp-page.php:191 wcptb-acp-page.php:276 wcptb-acp-page.php:315
+msgid "Ascending"
+msgstr "Croissant"
+
+#: wcptb-acp-page.php:172 wcptb-acp-page.php:192 wcptb-acp-page.php:277 wcptb-acp-page.php:316
+msgid "Descending"
+msgstr "Décroissant"
+
+#: wcptb-acp-page.php:176 wcptb-acp-page.php:196 wcptb-acp-page.php:281 wcptb-acp-page.php:320
+msgid "Count"
+msgstr "Nombre"
+
+#: wcptb-acp-page.php:177 wcptb-acp-page.php:197 wcptb-acp-page.php:282
+msgid "Display number of products"
+msgstr "Afficher le nombre de produits"
+
+#: wcptb-acp-page.php:180
+msgid "Categories cloud"
+msgstr "Nuage de catégories"
+
+#: wcptb-acp-page.php:181
+msgid "Improve your SEO by adding a categories cloud of WC product categories."
+msgstr "Améliorer le référencement SEO en ajoutant un nuage de liens des catégories de vos produits."
+
+#: wcptb-acp-page.php:182
+msgid "Insert [subcats_cloud] short code into a text widget as well as post or page content."
+msgstr "Insérer le short code [subcats_cloud] dans un widget de type texte comme dans le contenu d'un post ou d'une page."
+
+#: wcptb-acp-page.php:185
+msgid "Empty categories"
+msgstr "Catégories vides"
+
+#: wcptb-acp-page.php:186
+msgid "Hide categories with NO product"
+msgstr "Cacher les catégories SANS produit"
+
+#: wcptb-acp-page.php:217 wcptb-acp-page.php:244 wcptb-acp-page.php:293 wcptb-acp-page.php:331 wcptb-acp-page.php:366
+msgid "Metas"
+msgstr "Métas"
+
+#: wcptb-acp-page.php:219 wcptb-acp-page.php:246 wcptb-acp-page.php:295 wcptb-acp-page.php:333 wcptb-acp-page.php:368
+msgid "Categories"
+msgstr "Catégories"
+
+#: wcptb-acp-page.php:220 wcptb-acp-page.php:247 wcptb-acp-page.php:296 wcptb-acp-page.php:334 wcptb-acp-page.php:369
+msgid "Products"
+msgstr "Produits"
+
+#: wcptb-acp-page.php:221 wcptb-acp-page.php:248 wcptb-acp-page.php:297 wcptb-acp-page.php:335 wcptb-acp-page.php:370
+msgid "Cart"
+msgstr "Panier"
+
+#: wcptb-acp-page.php:226
+msgid "Product metas"
+msgstr "Métas du produit"
+
+#: wcptb-acp-page.php:227
+msgid "Improve your layout by hiding product metas."
+msgstr "Améliorer le visuel en cachant les métas des produits."
+
+#: wcptb-acp-page.php:230
+msgid "Hide metas"
+msgstr "Cacher les métas"
+
+#: wcptb-acp-page.php:231
+msgid "Hide SKU, Categories and Tags"
+msgstr "Cacher le SKU, les catégories et les étiquettes"
+
+#: wcptb-acp-page.php:232
+msgid "Hide only SKU"
+msgstr "Ne cacher que le SKU"
+
+#: wcptb-acp-page.php:253
+msgid "Tags scrolling list"
+msgstr "Liste d'étiquettes"
+
+#: wcptb-acp-page.php:254
+msgid "Improve your navigation by adding a tags scrolling list of all your product tags."
+msgstr "Améliorer la navigation en ajoutant une liste des étiquettes de vos produits."
+
+#: wcptb-acp-page.php:255
+msgid "Insert [tags_list] short code into a text widget as well as post or page content."
+msgstr "Insérer le short code [tags_list] dans un widget de type texte comme dans le contenu d'un post ou d'une page."
+
+#: wcptb-acp-page.php:259
+msgid "Title"
+msgstr "Titre"
+
+#: wcptb-acp-page.php:264
+msgid "Sort"
+msgstr "Trier"
+
+#: wcptb-acp-page.php:265
+msgid "Alpha"
+msgstr "Alpha"
+
+#: wcptb-acp-page.php:266
+msgid "By number"
+msgstr "Par nombre"
+
+#: wcptb-acp-page.php:303
+msgid "Sub categories scrolling list"
+msgstr "Liste de sous-catégories"
+
+#: wcptb-acp-page.php:304
+msgid "Improve your navigation by adding a sub-categories scrolling lists of your product categories."
+msgstr "Améliorer la navigation en ajoutant une liste des catégories de vos produits."
+
+#: wcptb-acp-page.php:305
+msgid ""
+"1. Insert: [cats_list cat=(catId) title=(your category title) sort=(alpha/count)] as a usual shortcode into a text widget as well as post or page "
+"content."
+msgstr ""
+"1. Inserer: [cats_list cat=(catId) title=(un titre pour votre catégorie) sort=(alpha/count)] comme n'importe quel shortcode dans un widget de type "
+"texte ou comme un post ou un contenu de page."
+
+#: wcptb-acp-page.php:306
+msgid "2. In templates, pages or functions shortcode: echo do_shortcode('[cats_list cat=(catId) title=(your category title) sort=(alpha/count)]');"
+msgstr ""
+"2. Dans des templates, pages ou shortcode de fonctions: echo do_shortcode('[cats_list cat=(catId) title=(un titre pour votre catégorie) sort=(alpha/"
+"count)]');"
+
+#: wcptb-acp-page.php:309
+msgid "Empty sub-categories"
+msgstr "Sous-catégories vides"
+
+#: wcptb-acp-page.php:310
+msgid "Hide sub-categories with NO product"
+msgstr "Cacher les sous-catégories SANS produit"
+
+#: wcptb-acp-page.php:321
+msgid "Display number of products per sub-category"
+msgstr "Afficher le nombre de produits par sous-catégorie"
+
+#: wcptb-acp-page.php:340
+msgid "Product layout"
+msgstr "Présentation du produit"
+
+#: wcptb-acp-page.php:341
+msgid "Improve your layout by configuring product tabs (See also SEO tab)."
+msgstr "Améliorer le visuel en configurant les onglets des produits (Voir aussi l'onglet SEO)."
+
+#: wcptb-acp-page.php:344
+msgid "Hide tabs"
+msgstr "Cacher des onglets"
+
+#: wcptb-acp-page.php:345
+msgid "Hide Additional Information tab"
+msgstr "Cacher l'onglet d'informations complémentaires"
+
+#: wcptb-acp-page.php:346
+msgid "Hide Reviews tab"
+msgstr "Cacher l'onglet des avis"
+
+#: wcptb-acp-page.php:350
+msgid "Related products"
+msgstr "Produits similaires"
+
+#: wcptb-acp-page.php:352
+msgid "Replace 'Related products' text with your own text."
+msgstr "Remplacer le texte 'Produits similaires' par votre propre texte."
+
+#: wcptb-acp-page.php:375
+msgid "Add to cart button"
+msgstr "Ajout d'un bouton Panier"
+
+#: wcptb-acp-page.php:376
+msgid "Configure \"Add to cart\" options"
+msgstr "Configurer les options du bouton \"Ajouter au panier\""
+
+#: wcptb-acp-page.php:379
+msgid "Shop page"
+msgstr "Page boutique"
+
+#: wcptb-acp-page.php:380 wcptb-acp-page.php:386
+msgid "Change \"Add to cart\" text button"
+msgstr "Changer le texte du bouton \"Ajouter au panier\""
+
+#: wcptb-acp-page.php:381
+msgid "Add a bigger \"Buy\" button"
+msgstr "Ajout d'un bouton \"Acheter\" plus visible"
+
+#: wcptb-acp-page.php:385
+msgid "Product page"
+msgstr "Page produit"
+
+#: wcptb-acp-page.php:390
+msgid "Sold out!"
+msgstr "Vendu!"
+
+#: wcptb-acp-page.php:392
+msgid "Replace 'Sold out!' text when out of stock with your own text."
+msgstr "Remplacer le texte 'Rupture de stock' par votre propre texte."
+
+#: wcptb-acp-page.php:397
+msgid "Free shipping"
+msgstr "Envoi gratuit"
+
+#: wcptb-acp-page.php:398
+msgid "Display remaining amount to free shipping"
+msgstr "Afficher le montant restant pour bénéficier de l'envoi gratuit"
+
+#: wcptb-acp-page.php:401
+msgid "Free shipping amount"
+msgstr "Montant minimum pour un envoi gratuit"
+
+#: wcptb-acp-page.php:406
+msgid "Free shipping text button"
+msgstr "Texte du bouton d'envoi gratuit"
+
+#: wcptb-functions.php:123
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas la permission suffisante pour accéder à cette page."
+
+#: wcptb-functions.php:133
+msgid "Add for free "
+msgstr "Ajoutez gratuitement "
+
+#: wcptb-functions.php:133
+msgid "Next Product Labels & Badges for WooCommerce"
+msgstr "Next Product Labels & Badges for WooCommerce"
+
+#: wcptb-functions.php:133
+msgid " to automatically configure labels and badges on your WC image products!"
+msgstr " pour configurer automatiquement les étiquettes et badges de vos produits!"
+
+#: wcptb-functions.php:134
+msgid "You like this plugin?"
+msgstr "Vous aimez ce plugin?"
+
+#: wcptb-functions.php:134
+msgid "Offer me a coffee!"
+msgstr "Offrez-moi un café!"
+
+#: wcptb-functions.php:600
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+#: wcptb-functions.php:605
+msgid "In stock"
+msgstr "En stock"
+
+#: wcptb-functions.php:654
+#, php-format
+msgid "Get free shipping if you order %s more!"
+msgstr "Bénéficier de l'envoi gratuit si vous commandez %s de plus!"
+
+#~ msgid "YOUR Data have been saved successfully!"
+#~ msgstr "Réglages enregistrés!"
+
+#~ msgid "Sorry, cannot do this..."
+#~ msgstr "Désolé, impossible de réaliser cette action..."
+
+#~ msgid "Show labels is disabled on both single product and shop pages!"
+#~ msgstr "L'affichage des étiquettes est deshabilité à la fois sur les pages produit et la page boutique!"
+
+#~ msgid "General Settings"
+#~ msgstr "Réglages généraux"
+
+#~ msgid "Labels"
+#~ msgstr "Etiquettes"
+
+#, fuzzy
+#~| msgid "Type of label"
+#~ msgid "Type of labels"
+#~ msgstr "Type d'étiquette"
+
+#~ msgid "Text box labels (Do NOT need GD library)"
+#~ msgstr "Etiquettes de type texte (N'utilise pas la librairie GD)"
+
+#~ msgid "Image labels"
+#~ msgstr "Etiquettes de type image"
+
+#~ msgid "Show labels"
+#~ msgstr "Afficher les étiquettes"
+
+#~ msgid "Display label on single product"
+#~ msgstr "Afficher l'étiquette sur la page produit"
+
+#~ msgid "Display label on shop page"
+#~ msgstr "Afficher l'étiquette sur la page boutique"
+
+#~ msgid "Badges"
+#~ msgstr "Badges"
+
+#, fuzzy
+#~| msgid "Type of badge"
+#~ msgid "Type of badges"
+#~ msgstr "Type de badge"
+
+#~ msgid "Text box badges (Do NOT need GD library)"
+#~ msgstr "Badges de type texte (N'utilise pas la librairie GD)"
+
+#~ msgid "Image badges"
+#~ msgstr "Badges de type image"
+
+#~ msgid "Show badges"
+#~ msgstr "Afficher les badges"
+
+#~ msgid "Display badge on single product"
+#~ msgstr "Afficher le badge sur la page produit"
+
+#, fuzzy
+#~| msgid "Display badges on shop page"
+#~ msgid "Display badge on shop page"
+#~ msgstr "Afficher les badges sur la page boutique"
+
+#~ msgid "General settings"
+#~ msgstr "Réglages généraux"
+
+#~ msgid "Set labels"
+#~ msgstr "Définir les étiquettes"
+
+#~ msgid "Set badges"
+#~ msgstr "Définir les badges"
+
+#~ msgid "Display badges on product page"
+#~ msgstr "Afficher les badges sur la page produit"
+
+#~ msgid "Label settings"
+#~ msgstr "Réglages des étiquettes"
+
+#~ msgid "Label color"
+#~ msgstr "Couleur de l'étiquette"
+
+#~ msgid "Background color"
+#~ msgstr "Couleur de fond"
+
+#~ msgid "Pattern color"
+#~ msgstr "Couleur de motif"
+
+#~ msgid "Label opacity"
+#~ msgstr "Opacité de l'étiquette"
+
+#~ msgid "Set the opacity"
+#~ msgstr "Définir l'opacité"
+
+#~ msgid "From 0% (fully transparent) to 100% (fully opaque)"
+#~ msgstr "De 0% (complétement transparent) à 100% (complétement opaque)"
+
+#~ msgid "Font"
+#~ msgstr "Police"
+
+#~ msgid "Serif"
+#~ msgstr "Serif"
+
+#~ msgid "Sans serif"
+#~ msgstr "Sans serif"
+
+#~ msgid "Cursive"
+#~ msgstr "Cursive"
+
+#~ msgid "Fantasy"
+#~ msgstr "Fantaisie"
+
+#~ msgid "Monospace"
+#~ msgstr "Monospace"
+
+#~ msgid "Font color"
+#~ msgstr "Couleur de police"
+
+#~ msgid "Label alignment"
+#~ msgstr "Alignement du label"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid "Offset X"
+#~ msgstr "Décalage en X"
+
+#~ msgid "Offset Y"
+#~ msgstr "Décalage en Y"
+
+#~ msgid "Right of the product page"
+#~ msgstr "Droite de la page produit"
+
+#~ msgid "Main content"
+#~ msgstr "Contenu principal"
+
+#~ msgid "Fisrt information on labels"
+#~ msgstr "Information principale sur l'étiquette"
+
+#~ msgid "Percent discount"
+#~ msgstr "Pourcentage de réduction"
+
+#~ msgid "Total discount"
+#~ msgstr "Réduction totale"
+
+#~ msgid "Complementary content"
+#~ msgstr "Contenu complémentaire"
+
+#~ msgid "Show secondary information"
+#~ msgstr "Afficher l'information secondaire"
+
+#~ msgid "New"
+#~ msgstr "Nouveauté"
+
+#~ msgid "Featured"
+#~ msgstr "Produit phare"
+
+#~ msgid "Best selling"
+#~ msgstr "Meilleures ventes"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantité"
+
+#~ msgid "Badge settings"
+#~ msgstr "Réglages des badges"
+
+#~ msgid "Activate this badge"
+#~ msgstr "Activer ce badge"
+
+#~ msgid "Badge opacity"
+#~ msgstr "Opacité du badge"
+
+#~ msgid "Badge alignment"
+#~ msgstr "Alignement du badge"
+
+#~ msgid "Top left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Top right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Bottom left"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Bottom right"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Better aligned Top left with X = -5 and Y around 250"
+#~ msgstr "Alignement conseillé en haut à gauche avec X = -5 et Y autour de 250"
+
+#~ msgid "Better aligned Top right with X = 5 and Y = -5"
+#~ msgstr "Alignement conseillé en haut à droite avec X = 5 et Y = -5"
+
+#~ msgid "Better aligned Top right with X = -5 and Y = -5"
+#~ msgstr "Alignement conseillé en haut à droite avec X = -5 et Y = -5"
+
+#~ msgid "Better aligned Top left with X = 100 and Y = -5"
+#~ msgstr "Alignement conseillé en haut à gauche avec X = 100 et Y = -5"
+
+#~ msgid "Better aligned Top right with X = -5 and Y = 0"
+#~ msgstr "Alignement conseillé en haut à droite avec X = -5 et Y = 0"
+
+#~ msgid "Better aligned Left with X around 70 and Y = -10"
+#~ msgstr "Alignement conseillé à gauche avec X = 70 et Y = -10"
+
+#~ msgid "Better aligned Left with X = -5 and Y around 400"
+#~ msgstr "Alignement conseillé à gauche avec X = -5 et Y autour de 400"
+
+#~ msgid "Better aligned Right with X = 10 and Y from 0 and more"
+#~ msgstr "Alignement conseillé à droite avec X = 10 et Y entre 0 et plus"
+
+#~ msgid "Better aligned Right with X = -1 and Y = -1"
+#~ msgstr "Alignement conseillé à droite avec X = -1 et Y = -1"
+
+#~ msgid "Better aligned Left with X = 100 and Y = -5"
+#~ msgstr "Alignement conseillé à gauche avec X = 100 et Y = -5"
+
+#~ msgid "Better aligned Right with X = 0 and Y = 0"
+#~ msgstr "Alignement conseillé à droite avec X = 0 et Y = 0"
+
+#~ msgid "Better aligned Right of the product page with X = 0 and Y = 0"
+#~ msgstr "Alignement conseillé à droite de la page produit avec X = 0 et Y = 0"
+
+#~ msgid "Text alignment"
+#~ msgstr "Alignement du texte"
+
+#~ msgid "Text direction"
+#~ msgstr "Direction du texte"
+
+#~ msgid "Top to bottom"
+#~ msgstr "De haut en bas"
+
+#~ msgid "Bottom to top"
+#~ msgstr "De bas en haut"
+
+#~ msgid "Font size"
+#~ msgstr "Taille de police"
+
+#~ msgid "Newness"
+#~ msgstr "Nouveauté"
+
+#~ msgid "days"
+#~ msgstr "jours"
+
+#~ msgid "Displayed when less or equal than quantity"
+#~ msgstr "Affiché si inférieur ou égal à cette quantité"
+
+#~ msgid "Only for TEXT labels"
+#~ msgstr "Ne fonctionne qu'avec les étiquettes de type TEXTE"
+
+#~ msgid "Use category background colors instead of label background color"
+#~ msgstr "Utilise les couleurs des catégories des badges au lieu de la couleur de fond"
+
+#~ msgid "Up to -"
+#~ msgstr "Jusqu'à -"
+
+#~ msgid "Select badge"
+#~ msgstr "Choix du badge"
+
+#~ msgid "Show/Hide to select badge"
+#~ msgstr "Montrer/Cacher pour choisir le badge"
+
+#~ msgid "Select label"
+#~ msgstr "Choix de l'étiquette"
+
+#~ msgid "Show/Hide to select label"
+#~ msgstr "Montrer/Cacher pour choisir l'étiquette"
+
+#~ msgid "Badge color"
+#~ msgstr "Couleur du badge"
+
+#~ msgid "Badge text"
+#~ msgstr "Texte du badge"
+
+#~ msgid "Categories & labels association"
+#~ msgstr "Association des labels et catégories"
+
+#~ msgid "This may be useful if you have only ONE category per product."
+#~ msgstr "XXX"
+
+#~ msgid "Hierarchy"
+#~ msgstr "Hiérarchie"
+
+#~ msgid "Show hierarchical categories"
+#~ msgstr "Montrer la hiérarchie des catégories"
+
+#~ msgid "Only for TEXT label background color"
+#~ msgstr "ONLY!!"
+
+#~ msgid "Set text badge"
+#~ msgstr "Définir le texte du badge"
+
+#~ msgid "Set Label"
+#~ msgstr "Définir l'étiquette3"
+
+#~ msgid "restored image file(s) to media library"
+#~ msgstr "fichiers image restauré(s) dans la bibliothèque"
+
+#~ msgid "Watermark Text"
+#~ msgstr "Filigrane Texte"
+
+#~ msgid "Watermark Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Backup/Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Watermark text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "E.g.: &copy; Your name"
+#~ msgstr "Ex.: &copy; Votre nom"
+
+#~ msgid "m/d/Y"
+#~ msgstr "d/m/Y"
+
+#~ msgid "Transparency"
+#~ msgstr "Transparence"
+
+#~ msgid "From 0 (completely opaque) to 127 (completely transparent)"
+#~ msgstr "De 0 (complétement opaque) à 127 (complétement transparent)"
+
+#~ msgid "Orientation"
+#~ msgstr "Orientation"
+
+#~ msgid "From 0&deg; to 360&deg;"
+#~ msgstr "De 0&deg; à 360&deg;"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaïque"
+
+#~ msgid "Repeat the watermark text"
+#~ msgstr "Dupliquer le filigrane texte"
+
+#~ msgid "Mosaic size"
+#~ msgstr "Taille de la mosaïque"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Custom"
+#~ msgstr "Personnalisée"
+
+#~ msgid "Custom Mosaic size"
+#~ msgstr "Taille personnalisée"
+
+#~ msgid "Shift watermarks"
+#~ msgstr "Décaler les filigranes"
+
+#~ msgid "Negative X value relative to right side"
+#~ msgstr "Valeur négative de X relative au côté droit"
+
+#~ msgid "Negative Y value relative to bottom side"
+#~ msgstr "Valeur négative de Y relative au côté inférieur"
+
+#~ msgid "Error applying watermark!"
+#~ msgstr "Erreur en apposant le filigrane!"
+
+#~ msgid "Apply text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Watermark image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermark image not found!"
+#~ msgstr "Filigrane image absent!"
+
+#~ msgid "Change Image watermark"
+#~ msgstr "Changer le filigrane image"
+
+#~ msgid "Press Apply button to see changes."
+#~ msgstr "Presser le bouton Activer pour voir les changements."
+
+#~ msgid "Upload Image watermark"
+#~ msgstr "Téléverser un filigrane image"
+
+#~ msgid "Set the orientation to 0&deg; to enable 'Opacity' and 'Fit to image' options"
+#~ msgstr "Réglez l'orientation à 0&deg; pour activer les options 'Opacité' et 'Ajuster à l'image'"
+
+#~ msgid "Set the opacity (gif & jpg only, with NO orientation)"
+#~ msgstr "Définir l'opacité (seulement pour les GIF/JPEG, sans orientation)"
+
+#~ msgid "Special effects"
+#~ msgstr "Effets spéciaux"
+
+#~ msgid "Greyscale watermark"
+#~ msgstr "Nuances de gris"
+
+#~ msgid "Negative watermark"
+#~ msgstr "Watermark négatif"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "(Use Aligment parameters below)"
+#~ msgstr "(Utilise les paramètres d'alignement)"
+
+#~ msgid "Upper center"
+#~ msgstr "En haut au centre"
+
+#~ msgid "Middle left"
+#~ msgstr "Au milieu à gauche"
+
+#~ msgid "Middle center"
+#~ msgstr "Au milieu au centre"
+
+#~ msgid "Middle right"
+#~ msgstr "Au milieu à droite"
+
+#~ msgid "Bottom center"
+#~ msgstr "En bas au centre"
+
+#~ msgid "Fit watermark to image width"
+#~ msgstr "Ajuster le filigrane à la largeur de l'image"
+
+#~ msgid "Do NOT use Offset X but Margin X parameter"
+#~ msgstr "N'utilise PAS le décalage en X mais la marge en X"
+
+#~ msgid "Fit watermark to image height"
+#~ msgstr "Ajuster le filigrane à la hauteur de l'image"
+
+#~ msgid "Do NOT use Offset Y but Margin Y parameter"
+#~ msgstr "N'utilise PAS le décalage en Y mais la marge en Y"
+
+#~ msgid "Keep aspect ratio"
+#~ msgstr "Préserver le ratio"
+
+#~ msgid "(Left and right margins around watermark)"
+#~ msgstr "Marges gauche et droite autour du filigrane)"
+
+#~ msgid "(Top and bottom margins around watermark)"
+#~ msgstr "Marges haute et basse autour du filigrane)"
+
+#~ msgid "Apply image watermark"
+#~ msgstr "Activer le filigrane de type image"
+
+#~ msgid "Backup/Restore media images"
+#~ msgstr "Sauvegarde/Restauration des images"
+
+#~ msgid "Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Backup"
+#~ msgstr "Sauvegarde"
+
+#~ msgid "Backup images before watermark"
+#~ msgstr "Sauver les images avant filigranage"
+
+#~ msgid "Stored at"
+#~ msgstr "Sauvé dans"
+
+#~ msgid "Restore only current existing images"
+#~ msgstr "Restaurer seulement les images existantes"
+
+#~ msgid "Restore all images from backup directory"
+#~ msgstr "Restaurer toutes les images du répertoire de sauvegarde"
+
+#~ msgid "Watermarking"
+#~ msgstr "Filigranage numérique"
+
+#~ msgid "Watermark automatically images when uploading in the media gallery"
+#~ msgstr "Appliquer automatiquement le(s) filigrane(s) lors du téléversement de nouvelles images"
+
+#~ msgid "Watermark types"
+#~ msgstr "Types de filigranes"
+
+#~ msgid "Select to activate text watermark, image watermark, or both"
+#~ msgstr "Activer le filigrane de type texte, image ou les deux"
+
+#~ msgid "Activate image watermark"
+#~ msgstr "Activer le filigrane de type image"
+
+#~ msgid "Image quality"
+#~ msgstr "Qualité d'image"
+
+#~ msgid "Set the image quality - Default value (-1) uses the default IJG quality value (about 75)"
+#~ msgstr "Définir la qualité d'image - Par défaut (-1) utilise la qualité IJG (environ 75)"
+
+#~ msgid "From 0 (worst quality, smaller file) to 100 (best quality, biggest file)"
+#~ msgstr "De 0 (moins bonne qualité, fichier plus petit) à 100 (meilleure qualité, fichier plus grand)"
+
+#~ msgid "Select the image types to be watermarked"
+#~ msgstr "Sélectionner les types d'images à apposer le filigrane"
+
+#~ msgid "Image sizes"
+#~ msgstr "Tailles d'image"
+
+#~ msgid "Select the image sizes to be watermarked"
+#~ msgstr "Sélectionner les tailles d'images à apposer le filigrane"
+
+#~ msgid "Post types"
+#~ msgstr "Type de posts"
+
+#~ msgid "Select the post types to be watermarked"
+#~ msgstr "Sélectionner les types de posts à apposer le filigrane"
+
+#~ msgid "Set Watermarks"
+#~ msgstr "Définir les filigranes"
+
+#~ msgid "Set Watermark Text"
+#~ msgstr "Définir le filigrane texte"
+
+#~ msgid "Set Backup/Restore options"
+#~ msgstr "Définir les options de sauvegarde/restauration"
+
+#~ msgid "Both image and text watermarks are disabled!"
+#~ msgstr "Les filigranes de type texte et image sont tous deux désactivés!"
+
+#~ msgid "Cannot keep aspect ratio when both 'Fit' options are selected!"
+#~ msgstr "Impossible de conserver le ratio quand les deux options 'Fit' sont selectionnées!"
+
+#~ msgid "Image format not allowed!"
+#~ msgstr "Format d'image non autorisé!"
+
+#~ msgid "Watermark image format not allowed!"
+#~ msgstr "Format de filigrane non autorisé!"
+
+#~ msgid "Watermak image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermak Text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "Watermak Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "none"
+#~ msgstr "Aucun"
